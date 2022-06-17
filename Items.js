@@ -7,4 +7,5 @@ const data = [
     {id:6, nombre: 'Natural Choice', img: 'https://delkoalimentos.com.ar/contenido/lineas/1.png', precio: 6800},
     {id:7, nombre: 'Dog Seleccion - Criadores', img: 'https://statics.dinoonline.com.ar/imagenes/large_460x460/2520565_l.jpg', precio: 4850}
 ]
-export default data;
+
+console.log([data]);
